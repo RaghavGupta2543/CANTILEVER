@@ -1,0 +1,24 @@
+# Expense Tracker
+
+An expense tracker application that allows users to input their expenses, categorize them, and generate reports or visualizations to analyze spending habits.
+
+## Technologies
+- PyQt5 for the GUI
+- SQLite for data storage
+- Matplotlib for data visualization
+- datetime module for date handling
+
+## Setup
+1. Install the required dependencies:
+    ```
+    pip install -r requirements.txt
+    ```
+
+2. Run the application:
+    ```
+    python main.py
+    ```
+
+## Features
+- Add, view, and categorize expenses
+- Visualize expenses over time
